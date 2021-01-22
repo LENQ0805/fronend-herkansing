@@ -379,12 +379,12 @@ main.detailPagina > a:nth-of-type(4) {
 
 
 .followus {
-    color: aqua!important;
+    color: white!important;
     border: solid;
     padding-left: 1.5em;
     padding-right: 1.5em;
     border-color: white;
-    margin-bottom: em;
+    margin-bottom: 5em;
 }
 
 /*einde css main*/
@@ -634,13 +634,13 @@ footer > div:nth-of-type(2) > p {
 
     .vierkantje {
         width: 50vw !important;
-        height: 50vh !important;
+        height: 50vw !important;
 
     }
 
     .zwartBlokjeInsta {
         width: 50vw !important;
-        height: 50vh !important;
+        height: 50vw !important;
 
     }
 
